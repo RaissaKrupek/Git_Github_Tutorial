@@ -44,3 +44,6 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 
 1º - Após abrir o RStudio, vá até a opção `File` e, em seguida, selecione `New Project`.
 - RStudio → File → New Project
+
+2º - Escolha a opção `Version Control` e depois selecione `Git`.
+- Version Control → Git
