@@ -33,9 +33,9 @@ Porem, apesar de semelhantes, possuem diferenças importantes:
 
 Em termos simples, um repositório  é como uma pasta ou diretório que guarda tudo o que faz parte de um projeto, incluindo códigos, imagens, documentos, e até arquivos de configuração. Para criar um novo repositório diretamente no Github, siga os seguintes passos:
 
-1º- Na página inicial, vá até a opção *Criar novo repositório*.
+1º- Na página inicial, vá até a opção `Criar novo repositório`
 
-- Nesta etapa, você irá inserir as informações do projeto, como o nome do repositório, adicionar uma descrição breve e, em seguida, `criar o repositório`.\
+- Nesta etapa, você irá inserir as informações do projeto, como o nome do repositório, adicionar uma descrição breve e, em seguida, `criar o repositório`
 - Observacao: Se preferir, pode adicionar a opção `README.md`,  um arquivo de texto onde você pode incluir informações importantes sobre o projeto, como o objetivo, como configurar, usar e contribuir para o projeto, entre outros detalhes, sendo uma forma prática de documentar e explicar o projeto para outros usuários.
 
 2º- Em seguida, você verá uma página com um visual um pouco cinza e cheia de comandos, mas o que você precisa fazer é bem simples: basta `copiar o link` que aparecer, em HTTP.
