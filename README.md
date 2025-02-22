@@ -79,7 +79,7 @@ Depois de fazer as modificações nos arquivos desejados diretamente pelo RStudi
 
 Observação: Pode ser necessário fazer login no GitHub nesse momento.
 
-`Commit` → Selecione arquivos alterados → Escreva uma mensagem de commit (opcional) → `Commit` → `Push`
+- `Commit` → Selecione arquivos alterados → Escreva uma mensagem de commit (opcional) → `Commit` → `Push`
 
 ## Sincronizando alterações do Github para o R através do Git 🔄
 
