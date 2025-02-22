@@ -66,13 +66,13 @@ Caso seja preciso configurar uma chave SSH e um personal access token:
 
 **Comandos no RStudio:**
 
-1 - credentials::set_github_pat("colar seu token aqui")
+  1 - credentials::set_github_pat("colar seu token aqui")
 
-2 - rodar isso no RStudio
+  2 - rodar isso no RStudio
 
-3 - instalar os pacotes exigidos
+  3 - instalar os pacotes exigidos
 
-4 - rodar aquele código novamente
+  4 - rodar aquele código novamente
 
 ## Sincronizando alterações do R para o Github através do Git 🔄
 Depois de fazer as modificações nos arquivos desejados diretamente pelo RStudio, salve as alterações. Em seguida, acesse o ambiente **Git** e clique em  `Commit`. Selecione os arquivos que deseja incluir na atualização e escreva uma mensagem descritiva explicando as mudanças feitas (etapa opcional). Após isso, clique em `Commit` para registrar as alterações. Por fim, clique em `Push` para enviar os arquivos para o repositório remoto.
