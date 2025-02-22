@@ -15,9 +15,15 @@ Atensiosamente, Raissa Souza Krupek.
 Essas ferramentas são responsáveis por gerenciar arquivos e suas versões, funcionando como um `sistema de controle de versão`. Elas permitem o acompanhamento das alterações no código ao longo do tempo. Dessa forma, são essenciais para o armazenamento e restauração de versões, o gerenciamento de backups e para facilitar trabalhos colaborativos. 
 Porem, apesar de semelhantes, possuem diferenças importantes:
 
-### 1.Git
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100">
+  ### 1. Git
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100">
 
-- é um sistema de controle de versão distribuído. Ele permite que você registre as mudanças no seu código ao longo do tempo, faça o controle das versões e possa voltar a versões anteriores do código sempre que necessário. Ou seja, ele mantém o histórico de todas as modificações realizadas em arquivos de um projeto e permite que múltiplas pessoas trabalhem no mesmo projeto sem sobrescrever o trabalho dos outros.
+- O Git é um sistema de controle de versão distribuído. Ele permite que você registre as mudanças no seu código ao longo do tempo, faça o controle das versões e possa voltar a versões anteriores do código sempre que necessário. Ou seja, ele mantém o histórico de todas as modificações realizadas em arquivos de um projeto e permite que múltiplas pessoas trabalhem no mesmo projeto sem sobrescrever o trabalho dos outros.
 
 - Realize o [download](https://git-scm.com/downloads) do git para prosseguir com o tutorial. Pode ser realizado para os sistemas Windowns, Linux/Unix ou Mac.
+
+  ### 2. GitHub:
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100">
+-  O GitHub é uma plataforma online que usa o Git para armazenar e compartilhar códigos. Ele facilita o trabalho em equipe, permitindo que várias pessoas colaborem no mesmo projeto. No GitHub, você pode ver e organizar os códigos de forma visual, além de usar ferramentas como issues (para discutir problemas ou melhorias), pull requests (para sugerir alterações no código) e wikis (para documentar o projeto). Essas ferramentas ajudam a tornar o trabalho mais organizado e colaborativo.
+  
+-   Para dar continuidade, crie uma conta no [GitHub.](https://github.com)
