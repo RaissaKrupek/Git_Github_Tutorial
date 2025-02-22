@@ -28,3 +28,5 @@ Porem, apesar de semelhantes, possuem diferenças importantes:
 -  O GitHub é uma plataforma online que usa o Git para armazenar e compartilhar códigos. Ele facilita o trabalho em equipe, permitindo que várias pessoas colaborem no mesmo projeto. No GitHub, você pode ver e organizar os códigos de forma visual, além de usar ferramentas como issues (para discutir problemas ou melhorias), pull requests (para sugerir alterações no código) e wikis (para documentar o projeto). De uma forma informal, pode ser entendido como uma `rede social` para codigos, onde os desenvolvedores podem compartilha-los e realizar colaboracoes.
   
 -   Para dar continuidade, crie uma conta no [GitHub.](https://github.com)
+
+## Criando um repositorio no Github 📁
