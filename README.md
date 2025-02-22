@@ -52,6 +52,13 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 - Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
 
 ## Alguns comandos que podem ser necessários 📜
+Caso seja preciso configurar uma chave SSH e um personal access token:
+### 1. Chave SSH
+Comandos para o RStudio:
+- Vá em Tools → Global Options → Git/SVN → Create SSH key → Apply → View public key → copiar → ok.
+
+Comandos para o GitHub:
+- Settings → SSH e GPT keys → New SSH → Add title → Colar Key. 
 
 ## Sincronizando alterações do R para o Github através do Git 🔄
 
