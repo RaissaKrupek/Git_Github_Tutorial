@@ -75,14 +75,14 @@ Caso seja preciso configurar uma chave SSH e um personal access token:
   4 - rodar aquele código novamente
 
 ## Sincronizando alterações do R para o Github através do Git 🔄
-Depois de fazer as modificações nos arquivos desejados diretamente pelo RStudio, salve as alterações. Em seguida, acesse o ambiente **Git** e clique em  `Commit`. Selecione os arquivos que deseja incluir na atualização e escreva uma mensagem descritiva explicando as mudanças feitas (etapa opcional). Após isso, clique em `Commit` para registrar as alterações. Por fim, clique em `Push` para enviar os arquivos para o repositório remoto.
+Depois de fazer as modificações nos arquivos desejados diretamente pelo RStudio, salve as alterações. Em seguida, acesse o ambiente **Git** e clique em  `Commit`. Selecione os arquivos que deseja incluir na atualização e escreva uma mensagem descritiva explicando as mudanças feitas (etapa opcional). Após isso, clique em `Commit` para registrar as alterações. Por fim, clique em `Push ⬆️` para enviar os arquivos para o repositório remoto.
 
 Observação: Pode ser necessário fazer login no GitHub nesse momento.
 
 - `Commit` → Selecione arquivos alterados → Escreva uma mensagem de commit (opcional) → `Commit` → `Push`
 
 ## Sincronizando alterações do Github para o R através do Git 🔄
-Muitas vezes, fazemos alterações diretamente no GitHub ou em outros servidores, o que pode causar conflitos de sincronização ao tentar fazer novos commits. Isso acontece porque a versão local do código pode estar desatualizada em relação à versão remota. Por isso, é importante sempre sincronizar sua versão local com a remota antes de fazer novos commits. Isso pode ser feito utilizando o comando `Pull`, que traz as alterações mais recentes do repositório remoto para o seu ambiente local, evitando conflitos e garantindo que você esteja trabalhando com a versão mais atualizada do projeto.
+Muitas vezes, fazemos alterações diretamente no GitHub ou em outros servidores, o que pode causar conflitos de sincronização ao tentar fazer novos commits. Isso acontece porque a versão local do código pode estar desatualizada em relação à versão remota. Por isso, é importante sempre sincronizar sua versão local com a remota antes de fazer novos commits. Isso pode ser feito utilizando o comando `Pull ⬇️`, que traz as alterações mais recentes do repositório remoto para o seu ambiente local, evitando conflitos e garantindo que você esteja trabalhando com a versão mais atualizada do projeto.
 
 ## Finalização ✅
 
