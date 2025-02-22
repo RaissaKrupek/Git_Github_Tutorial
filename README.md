@@ -42,7 +42,7 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 
 ## Etapas para obter atualizações remotas do seu código do RStudio 💻
 
-1º - Após abrir o RStudio, vá até a opção `File` e, em seguida, selecione `New Project`.
+**1º** - Após abrir o RStudio, vá até a opção `File` e, em seguida, selecione `New Project`.
 - RStudio → File → New Project
 
 2º - Escolha a opção `Version Control` e depois selecione `Git`.
