@@ -48,7 +48,7 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 2º - Escolha a opção `Version Control` e depois selecione `Git`.
 - Version Control → Git
 
-3º - Lembra da `URL` que copiamos do repositório criado no GitHub? É aqui que vamos colá-la!
+3º  Lembra da `URL` que copiamos do repositório criado no GitHub? É aqui que vamos colá-la!
 - Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
 
 ## Alguns comandos que podem ser necessários:
