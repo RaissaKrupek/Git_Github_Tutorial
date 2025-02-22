@@ -16,7 +16,7 @@ Essas ferramentas são responsáveis por gerenciar arquivos e suas versões, fun
 Porem, apesar de semelhantes, possuem diferenças importantes:
 
 ### 1.Git
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50">
 
 - é um sistema de controle de versão distribuído. Ele permite que você registre as mudanças no seu código ao longo do tempo, faça o controle das versões e possa voltar a versões anteriores do código sempre que necessário. Ou seja, ele mantém o histórico de todas as modificações realizadas em arquivos de um projeto e permite que múltiplas pessoas trabalhem no mesmo projeto sem sobrescrever o trabalho dos outros.
 
