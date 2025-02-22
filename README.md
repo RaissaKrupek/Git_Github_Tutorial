@@ -77,3 +77,9 @@ Comandos no RStudio:
 ## Sincronizando alterações do R para o Github através do Git 🔄
 
 ## Sincronizando alterações do Github para o R através do Git 🔄
+
+## Finalização
+
+O Git e o GitHub têm muitas outras funcionalidades, mas com o que vocês aprenderam hoje, já dá para começar a desenvolver um projeto de um jeito bem bacana! 🚀
+
+Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-scm.com/doc), pois qualquer dúvida que apareça pode ser respondida por lá na explicação!
