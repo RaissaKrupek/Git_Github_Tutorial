@@ -51,8 +51,8 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 **3º** - Lembra da `URL` que copiamos do repositório criado no GitHub? É aqui que vamos colá-la!
 - Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
 
-## Alguns comandos que podem ser necessários:
+## Alguns comandos que podem ser necessários 📜
 
-## Sincronizando alterações do R para o Github através do Git:
+## Sincronizando alterações do R para o Github através do Git 🔄
 
-## Sincronizando alterações do Github para o R através do Git:
+## Sincronizando alterações do Github para o R através do Git 🔄
