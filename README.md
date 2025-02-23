@@ -40,18 +40,24 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 
 **2º**- Em seguida, você verá uma página com um visual um pouco cinza e cheia de comandos, mas o que você precisa fazer é bem simples: basta `copiar o link` que aparecer, em HTTP.
 
-<img src="Images/pic_01.png" width="900">
+<img src="Images/pic_01.png" width="800" class="center">
 
 ## Etapas para obter atualizações remotas do seu código do RStudio 💻
 
 **1º** - Após abrir o RStudio, vá até a opção `File` e, em seguida, selecione `New Project`.
 - RStudio → File → New Project
+  
+<img src="Images/pic_02.png" width="800" class="center">
 
 **2º** - Escolha a opção `Version Control` e depois selecione `Git`.
 - Version Control → Git
 
+  <img src="Images/pic_03.png" width="800" class="center">
+
 **3º** - Lembra da `URL` que copiamos do repositório criado no GitHub? É aqui que vamos colá-la!
 - Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
+
+  <img src="Images/pic_04.png" width="800" class="center">
 
 ## Alguns comandos que podem ser necessários 📜
 Caso seja preciso configurar uma chave SSH e um personal access token:
