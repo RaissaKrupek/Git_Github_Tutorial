@@ -40,24 +40,24 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 
 **2º**- Em seguida, você verá uma página com um visual um pouco cinza e cheia de comandos, mas o que você precisa fazer é bem simples: basta `copiar o link` que aparecer, em HTTP.
 
-  <img src="Images/pic_01.png" width="500" class="center">
+  <img src="Images/pic_01.png" width="500">
 
 ## Etapas para obter atualizações remotas do seu código do RStudio 💻
 
 **1º** - Após abrir o RStudio, vá até a opção `File` e, em seguida, selecione `New Project`.
 - RStudio → File → New Project
   
-  <img src="Images/pic_02.png" width="500" class="center">
+  <img src="Images/pic_02.png" width="500">
 
 **2º** - Escolha a opção `Version Control` e depois selecione `Git`.
 - Version Control → Git
 
-  <img src="Images/pic_03.png" width="500" class="center"> <img src="Images/pic_04.png" width="500" class="center">
+  <img src="Images/pic_03.png" width="500" class="center"> <img src="Images/pic_04.png" width="500">
 
 **3º** - Lembra da `URL` que copiamos do repositório criado no GitHub? É aqui que vamos colá-la!
 - Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
 
-  <img src="Images/pic_05.png" width="500" class="center">
+   <img src="Images/pic_05.png" width="500">
 
 ## Alguns comandos que podem ser necessários 📜
 Caso seja preciso configurar uma chave SSH e um personal access token:
@@ -84,6 +84,8 @@ Caso seja preciso configurar uma chave SSH e um personal access token:
 
 ## Sincronizando alterações do R para o Github através do Git 🔄
 Depois de fazer as modificações nos arquivos desejados diretamente pelo RStudio, salve as alterações. Em seguida, acesse o environment **Git** do RStudio, e clique em  `Commit`. Selecione os arquivos que deseja incluir na atualização e escreva uma mensagem descritiva explicando as mudanças feitas (etapa opcional). Após isso, clique em `Commit` para registrar as alterações. Por fim, clique em `Push ⬆️` para enviar os arquivos para o repositório remoto.
+
+ <img src="Images/pic_05.png" width="500">
 
 Observação: Pode ser necessário fazer login no GitHub nesse momento.
 
