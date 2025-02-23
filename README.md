@@ -39,7 +39,8 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 - Observação: Se preferir, pode adicionar a opção `README.md`,  um arquivo de texto onde você pode incluir informações importantes sobre o projeto, como o objetivo, como configurar, usar e contribuir para o projeto, entre outros detalhes, sendo uma forma prática de documentar e explicar o projeto para outros usuários.
 
 **2º**- Em seguida, você verá uma página com um visual um pouco cinza e cheia de comandos, mas o que você precisa fazer é bem simples: basta `copiar o link` que aparecer, em HTTP.
-<img src="images/pic_01.png">
+
+<img src="Images/pic_01.png">
 
 ## Etapas para obter atualizações remotas do seu código do RStudio 💻
 
