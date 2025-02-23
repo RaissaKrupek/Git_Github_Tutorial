@@ -52,8 +52,7 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 **2º** - Escolha a opção `Version Control` e depois selecione `Git`.
 - Version Control → Git
 
-  <img src="Images/pic_03.png" width="700" class="center">
-  <img src="Images/pic_04.png" width="700" class="center">
+  <img src="Images/pic_03.png" width="500" class="center"> <img src="Images/pic_04.png" width="500" class="center">
 
 **3º** - Lembra da `URL` que copiamos do repositório criado no GitHub? É aqui que vamos colá-la!
 - Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
