@@ -1,4 +1,4 @@
-# 👩🏻‍💻Tuturial: Git e Github👩🏻‍💻
+# 👩🏻‍💻Tutorial: Git e Github👩🏻‍💻
 
 Olá!
 
