@@ -87,11 +87,11 @@ Depois de fazer as modificações nos arquivos desejados diretamente pelo RStudi
 
  <img src="Images/pic_06.png" width="500">
 
-Observação: Pode ser necessário fazer login no GitHub nesse momento.
-
 - `Commit` → Selecione arquivos alterados → Escreva uma mensagem de commit (opcional) → `Commit` → `Push`
 
 <img src="Images/pic_07.png" width="500">
+
+Observação: Pode ser necessário fazer login no GitHub nesse momento.
 
 ## Sincronizando alterações do Github para o R através do Git 🔄
 Muitas vezes, fazemos alterações diretamente no GitHub ou em outros servidores, o que pode causar conflitos de sincronização ao tentar fazer novos commits. Isso acontece porque a versão local do código pode estar desatualizada em relação à versão remota. Por isso, é importante sempre sincronizar sua versão local com a remota antes de fazer novos commits. Isso pode ser feito utilizando o comando `Pull ⬇️`, encontrado no ambiente **Git** do RStudio, que traz as alterações mais recentes do repositório remoto para o seu ambiente local, evitando conflitos e garantindo que você esteja trabalhando com a versão mais atualizada do projeto.
