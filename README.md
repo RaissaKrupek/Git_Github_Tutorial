@@ -55,7 +55,7 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
   <img src="Images/pic_03.png" width="500" class="center"> <img src="Images/pic_04.png" width="500">
 
 **3º** - Lembra da `URL` que copiamos do repositório criado no GitHub? É aqui que vamos colá-la!
-   > ⚠️ Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
+> ⚠️ Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
 
    <img src="Images/pic_05.png" width="500">
 
@@ -63,14 +63,14 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
 Caso seja preciso configurar uma chave SSH e um personal access token:
 ### 1. Chave SSH 🔑
 **Comandos no RStudio:**
-- `Vá em Tools` → `Global Options` → `Git/SVN` → `Create SSH key` → `Apply` → `View public key` → copiar → `Ok`.
+`Tools` → `Global Options` → `Git/SVN` → `Create SSH key` → `Apply` → `View public key` → copiar → `Ok`.
 
 **Comandos no GitHub:**
-- `Settings` → `SSH e GPT keys` → `New SSH` → `Add title` → `Colar Key`. 
+`Settings` → `SSH e GPT keys` → `New SSH` → `Add title` → `Colar Key`. 
 
 ### 2. Personal access token 🔑
 **Comandos no GitHub:**
-- `Settings` → `Developer Settings` → `Personal access tokens`  → `tokens (classic)` → `Generate New Token (classic)` → Colocar Note → `habilitar repo` → `Generate token` → `Copiar código`.
+`Settings` → `Developer Settings` → `Personal access tokens`  → `tokens (classic)` → `Generate New Token (classic)` → Colocar Note → `habilitar repo` → `Generate token` → `Copiar código`.
 
 **Comandos no RStudio:**
 
