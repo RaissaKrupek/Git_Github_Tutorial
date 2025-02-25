@@ -55,7 +55,7 @@ Em termos simples, um repositório  é como uma pasta ou diretório que guarda t
   <img src="Images/pic_03.png" width="500" class="center"> <img src="Images/pic_04.png" width="500">
 
 **3º** - Lembra da `URL` que copiamos do repositório criado no GitHub? É aqui que vamos colá-la!
-- Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
+   > ⚠️ Observação: Nesta etapa, pode ser solicitado que você faça o login no GitHub.
 
    <img src="Images/pic_05.png" width="500">
 
