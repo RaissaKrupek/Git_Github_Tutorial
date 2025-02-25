@@ -70,7 +70,7 @@ Caso seja preciso configurar uma chave SSH e um personal access token:
 
 ### 2. Personal access token 🔑
 **Comandos no GitHub:**
-`Settings` → `Developer Settings` → `Personal access tokens`  → `tokens (classic)` → `Generate New Token (classic)` → Colocar Note → `habilitar repo` → `Generate token` → `Copiar código`.
+`Settings` → `Developer Settings` → `Personal access tokens`  → `tokens (classic)` → `Generate New Token (classic)` → Colocar Note → `habilitar repo` → `Generate token` → Copiar código.
 
 **Comandos no RStudio:**
 
